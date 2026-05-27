@@ -1,0 +1,9 @@
+*.pyc
+*.pyo
+.DS_Store
+.env
+.tools/
+.venv/
+__pycache__/
+_probe*.py
+venv/

@@ -229,6 +229,11 @@
     "title": "Albaqaa lelasyaa",
     "url": "https://webook.com/en/events/albaqaa-lelasyaa-ewc-support-25"
   },
+  "algs-ft-at-ewc26": {
+    "slug": "algs-ft-at-ewc26",
+    "title": "ALGS at EWC 26",
+    "url": "https://webook.com/en/events/algs-ft-at-ewc26"
+  },
   "all-thats-left-of-you-rsiff": {
     "slug": "all-thats-left-of-you-rsiff",
     "title": "ALL THAT'S LEFT OF YOU | Red Sea International Film Festival",
@@ -439,6 +444,11 @@
     "title": "Badr full Journey Bus",
     "url": "https://webook.com/en/events/badr-ful-journey-bus-sela-1"
   },
+  "bang-msc-ft-at-ewc26": {
+    "slug": "bang-msc-ft-at-ewc26",
+    "title": "Mobile Legends: Bang Bang MSC at EWC 26",
+    "url": "https://webook.com/en/events/bang-msc-ft-at-ewc26"
+  },
   "barakat-asiri-khobar-02620": {
     "slug": "barakat-asiri-khobar-02620",
     "title": "Virtual Dad: A Comedy Special by Barakat Asiri in Alkhobar",
@@ -509,6 +519,11 @@
     "title": "Chess at EWC 25",
     "url": "https://webook.com/en/events/chess-at-ewc-25"
   },
+  "chess-ft-at-ewc26": {
+    "slug": "chess-ft-at-ewc26",
+    "title": "Chess at EWC 26",
+    "url": "https://webook.com/en/events/chess-ft-at-ewc26"
+  },
   "chinese-seal-carving-and-stamp-making-workshop-moc": {
     "slug": "chinese-seal-carving-and-stamp-making-workshop-moc",
     "title": "Chinese Seal Carving and Stamp Making Workshop (Adults)",
@@ -544,10 +559,25 @@
     "title": "The Closing Ceremony of the 4th Edition of the Literary Partner Initiative",
     "url": "https://webook.com/en/events/closing-ceremony-4th-literary-partner-initiative-moc"
   },
+  "cod-bo7-ft-at-ewc26": {
+    "slug": "cod-bo7-ft-at-ewc26",
+    "title": "Call of Duty: BO7 at EWC 26",
+    "url": "https://webook.com/en/events/cod-bo7-ft-at-ewc26"
+  },
   "cod-warzone-at-ewc-25": {
     "slug": "cod-warzone-at-ewc-25",
     "title": "COD: Warzone at EWC 25",
     "url": "https://webook.com/en/events/cod-warzone-at-ewc-25"
+  },
+  "cod-warzone-ft-at-ewc26": {
+    "slug": "cod-warzone-ft-at-ewc26",
+    "title": "COD:WRS at EWC 26",
+    "url": "https://webook.com/en/events/cod-warzone-ft-at-ewc26"
+  },
+  "comedy-lab-jeddah-2026-tickets": {
+    "slug": "comedy-lab-jeddah-2026-tickets",
+    "title": "Comedy Lab",
+    "url": "https://webook.com/en/events/comedy-lab-jeddah-2026-tickets"
   },
   "comedy-tarab-nights-event-2026": {
     "slug": "comedy-tarab-nights-event-2026",
@@ -558,6 +588,11 @@
     "slug": "cosplayers-space-event-proscenium-theater-2025",
     "title": "Cosplayers’ Space Event",
     "url": "https://webook.com/en/events/cosplayers-space-event-proscenium-theater-2025"
+  },
+  "counter-strike-ft-at-ewc26": {
+    "slug": "counter-strike-ft-at-ewc26",
+    "title": "Counter-Strike 2 at EWC 26",
+    "url": "https://webook.com/en/events/counter-strike-ft-at-ewc26"
   },
   "couture-rsiff": {
     "slug": "couture-rsiff",
@@ -579,6 +614,11 @@
     "title": "CROSSFIRE at EWC 25",
     "url": "https://webook.com/en/events/crossfire-at-ewc-25"
   },
+  "crossfire-ft-at-ewc26": {
+    "slug": "crossfire-ft-at-ewc26",
+    "title": "CROSSFIRE at EWC 26",
+    "url": "https://webook.com/en/events/crossfire-ft-at-ewc26"
+  },
   "dakkah-winter-tickets-193756": {
     "slug": "dakkah-winter-tickets-193756",
     "title": "Dakkah Nakhil",
@@ -599,6 +639,11 @@
     "title": "Diriyah vs Al-Ula",
     "url": "https://webook.com/en/events/diriyah-vs-alula-final-play-off-3638"
   },
+  "dota2-ft-at-ewc26": {
+    "slug": "dota2-ft-at-ewc26",
+    "title": "Dota 2 at EWC 26",
+    "url": "https://webook.com/en/events/dota2-ft-at-ewc26"
+  },
   "dust-to-dreams-rsiff": {
     "slug": "dust-to-dreams-rsiff",
     "title": "DUST TO DREAMS | Red Sea International Film Festival",
@@ -608,6 +653,11 @@
     "slug": "ea-fc-at-ewc-25",
     "title": "FC Pro World Championship at EWC 25",
     "url": "https://webook.com/en/events/ea-fc-at-ewc-25"
+  },
+  "eafc-ft-at-ewc26": {
+    "slug": "eafc-ft-at-ewc26",
+    "title": "FC Pro World Championship at EWC 26",
+    "url": "https://webook.com/en/events/eafc-ft-at-ewc26"
   },
   "early-days-rsiff": {
     "slug": "early-days-rsiff",
@@ -653,6 +703,11 @@
     "slug": "f1-lv-grand-prix-de-monaco",
     "title": "FORMULA 1 LOUIS VUITTON GRAND PRIX DE MONACO 2026",
     "url": "https://webook.com/en/events/f1-lv-grand-prix-de-monaco"
+  },
+  "fatal-fury-ft-at-ewc26": {
+    "slug": "fatal-fury-ft-at-ewc26",
+    "title": "FATAL FURY: CotW at EWC 26",
+    "url": "https://webook.com/en/events/fatal-fury-ft-at-ewc26"
   },
   "fdl-al-anqaa-vs-ittihad-al-nusour": {
     "slug": "fdl-al-anqaa-vs-ittihad-al-nusour",
@@ -729,10 +784,20 @@
     "title": "FoodSphere Storytime",
     "url": "https://webook.com/en/events/foodsphere-storytime-tickets"
   },
+  "fortnite-ft-at-ewc26": {
+    "slug": "fortnite-ft-at-ewc26",
+    "title": "Reload Elite Series Championship at EWC 26",
+    "url": "https://webook.com/en/events/fortnite-ft-at-ewc26"
+  },
   "free-fire-at-ewc-25": {
     "slug": "free-fire-at-ewc-25",
     "title": "Free Fire at EWC 25",
     "url": "https://webook.com/en/events/free-fire-at-ewc-25"
+  },
+  "free-fire-ft-at-ewc26": {
+    "slug": "free-fire-ft-at-ewc26",
+    "title": "Free Fire at EWC 26",
+    "url": "https://webook.com/en/events/free-fire-ft-at-ewc26"
   },
   "from-scratch-the-musa-and-palm-story-biosphere": {
     "slug": "from-scratch-the-musa-and-palm-story-biosphere",
@@ -783,6 +848,11 @@
     "slug": "hilal-vs-dam-5224451",
     "title": "ALHILAL VS DAMAC",
     "url": "https://webook.com/en/events/hilal-vs-dam-5224451"
+  },
+  "honor-of-kings-ft-at-ewc26": {
+    "slug": "honor-of-kings-ft-at-ewc26",
+    "title": "Honor of Kings World Cup at EWC 26",
+    "url": "https://webook.com/en/events/honor-of-kings-ft-at-ewc26"
   },
   "human-tide-rsiff": {
     "slug": "human-tide-rsiff",
@@ -1019,6 +1089,11 @@
     "title": "League of Legends ft. at EWC 25",
     "url": "https://webook.com/en/events/league-of-legends-ft-at-ewc-25"
   },
+  "league-of-legends-ft-at-ewc26": {
+    "slug": "league-of-legends-ft-at-ewc26",
+    "title": "League of Legends at EWC 26",
+    "url": "https://webook.com/en/events/league-of-legends-ft-at-ewc26"
+  },
   "league-of-legends-watch-party-tickets": {
     "slug": "league-of-legends-watch-party-tickets",
     "title": "League of Legends Watch Party in Amazon Arena",
@@ -1119,6 +1194,11 @@
     "title": "Master Artisans",
     "url": "https://webook.com/en/events/master-artisans-tickets26"
   },
+  "match15-982659": {
+    "slug": "match15-982659",
+    "title": "IR Tanger vs Wydad AC",
+    "url": "https://webook.com/en/events/match15-982659"
+  },
   "mdl-beast-beast-house-thursday": {
     "slug": "mdl-beast-beast-house-thursday",
     "title": "MDLBEAST - Beast House Thursday",
@@ -1153,6 +1233,11 @@
     "slug": "meet-the-butterflies-tickets26",
     "title": "Meet the Butterflies",
     "url": "https://webook.com/en/events/meet-the-butterflies-tickets26"
+  },
+  "mlbb-ft-at-ewc26": {
+    "slug": "mlbb-ft-at-ewc26",
+    "title": "MLBB Womens' International at EWC 26",
+    "url": "https://webook.com/en/events/mlbb-ft-at-ewc26"
   },
   "mo-amer-comedy-show-rcf-tickets-635254": {
     "slug": "mo-amer-comedy-show-rcf-tickets-635254",
@@ -1324,6 +1409,11 @@
     "title": "Our Saudi Story",
     "url": "https://webook.com/en/events/our-saudi-story"
   },
+  "ow-ft-at-ewc26": {
+    "slug": "ow-ft-at-ewc26",
+    "title": "Overwatch Champions Series MSC at EWC 26",
+    "url": "https://webook.com/en/events/ow-ft-at-ewc26"
+  },
   "owcs-midseason-championship-at-2025-esports-world-cup": {
     "slug": "owcs-midseason-championship-at-2025-esports-world-cup",
     "title": "OWCS: MidSeason Championship at EWC 25",
@@ -1394,10 +1484,20 @@
     "title": "PUBG BATTLEGROUNDS at EWC 25",
     "url": "https://webook.com/en/events/pubg-battlegrounds-at-ewc-25"
   },
+  "pubg-battlegrounds-ft-at-ewc26": {
+    "slug": "pubg-battlegrounds-ft-at-ewc26",
+    "title": "PUBG: BATTLEGROUNDS at EWC 26",
+    "url": "https://webook.com/en/events/pubg-battlegrounds-ft-at-ewc26"
+  },
   "pubg-mobile-world-cup-at-ewc-25": {
     "slug": "pubg-mobile-world-cup-at-ewc-25",
     "title": "PUBG MOBILE World Cup at EWC 25",
     "url": "https://webook.com/en/events/pubg-mobile-world-cup-at-ewc-25"
+  },
+  "pubg-mobile-worldcup-ft-at-ewc26": {
+    "slug": "pubg-mobile-worldcup-ft-at-ewc26",
+    "title": "PUBG MOBILE World Cup at EWC 26",
+    "url": "https://webook.com/en/events/pubg-mobile-worldcup-ft-at-ewc26"
   },
   "puppet-show-tickets-103857": {
     "slug": "puppet-show-tickets-103857",
@@ -1408,6 +1508,11 @@
     "slug": "qamra-qamra-1-1",
     "title": "Qamra",
     "url": "https://webook.com/en/events/qamra-qamra-1-1"
+  },
+  "r6-siege-x-at-ewc26": {
+    "slug": "r6-siege-x-at-ewc26",
+    "title": "R6 Siege X at EWC 26",
+    "url": "https://webook.com/en/events/r6-siege-x-at-ewc26"
   },
   "ragasetpoemes-6jun": {
     "slug": "ragasetpoemes-6jun",
@@ -1468,6 +1573,11 @@
     "slug": "rocket-league-ft-at-ewc-25",
     "title": "Rocket League ft. at EWC 25",
     "url": "https://webook.com/en/events/rocket-league-ft-at-ewc-25"
+  },
+  "rocket-league-ft-at-ewc26": {
+    "slug": "rocket-league-ft-at-ewc26",
+    "title": "Rocket League at EWC 26",
+    "url": "https://webook.com/en/events/rocket-league-ft-at-ewc26"
   },
   "rrs-25-26-d10": {
     "slug": "rrs-25-26-d10",
@@ -2094,6 +2204,11 @@
     "title": "Street Fighter 6 at EWC 25",
     "url": "https://webook.com/en/events/street-fighter-6-at-ewc-25"
   },
+  "street-fighter6-ft-at-ewc26": {
+    "slug": "street-fighter6-ft-at-ewc26",
+    "title": "Street Fighter 6 at EWC 26",
+    "url": "https://webook.com/en/events/street-fighter6-ft-at-ewc26"
+  },
   "summerdan-bazar-26-tickets": {
     "slug": "summerdan-bazar-26-tickets",
     "title": "Summerdan bazar",
@@ -2149,6 +2264,11 @@
     "title": "Teamfight Tactics ft. at EWC 25",
     "url": "https://webook.com/en/events/teamfight-tactics-ft-at-ewc-25"
   },
+  "teamfight-tactics-ft-at-ewc26": {
+    "slug": "teamfight-tactics-ft-at-ewc26",
+    "title": "Teamfight Tactics at EWC 26",
+    "url": "https://webook.com/en/events/teamfight-tactics-ft-at-ewc26"
+  },
   "tedxkfupm-dream-spark": {
     "slug": "tedxkfupm-dream-spark",
     "title": "Speakers Theater",
@@ -2158,6 +2278,11 @@
     "slug": "tedxkfupm-exhibition-tedx",
     "title": "Event Exhibition",
     "url": "https://webook.com/en/events/tedxkfupm-exhibition-tedx"
+  },
+  "tekken8-ft-at-ewc26": {
+    "slug": "tekken8-ft-at-ewc26",
+    "title": "TEKKEN 8 at EWC 26",
+    "url": "https://webook.com/en/events/tekken8-ft-at-ewc26"
   },
   "the-acting-program-v3-tickets-542": {
     "slug": "the-acting-program-v3-tickets-542",
@@ -2288,6 +2413,11 @@
     "slug": "tpe-vs-nzl-fiba-asia-cup-2025-487336982",
     "title": "Chinese Taipei vs New Zealand - FIBA Asia Cup 2025",
     "url": "https://webook.com/en/events/tpe-vs-nzl-fiba-asia-cup-2025-487336982"
+  },
+  "trackmania-ft-at-ewc26": {
+    "slug": "trackmania-ft-at-ewc26",
+    "title": "Trackmania at EWC 26",
+    "url": "https://webook.com/en/events/trackmania-ft-at-ewc26"
   },
   "trivia-ramadan-mdl-beast": {
     "slug": "trivia-ramadan-mdl-beast",
@@ -2453,6 +2583,11 @@
     "slug": "unspoken-episode1-permission-not-granted-warehouse-tickets26",
     "title": "Unspoken: Episode 1 — Permission Not Granted",
     "url": "https://webook.com/en/events/unspoken-episode1-permission-not-granted-warehouse-tickets26"
+  },
+  "valorant-ft-at-ewc26": {
+    "slug": "valorant-ft-at-ewc26",
+    "title": "VALORANT at EWC 26",
+    "url": "https://webook.com/en/events/valorant-ft-at-ewc26"
   },
   "vip-route-experience-sela-1": {
     "slug": "vip-route-experience-sela-1",
